@@ -16,7 +16,7 @@ Name: Cael Meacham
    - Outcome: Defensive efficiency more accurately predicts the winner than offensive efficiency.
 
 
-2. [Project: USA Cancer Death Rates]([link-to-repo](https://github.com/Cmeacham27/Machine-Learning-Final.git))
+2. [Project: USA Cancer Death Rates](https://github.com/Cmeacham27/Machine-Learning-Final.git)
    - Description: Analyzed data for Cancer Death Rates over the span of a decade to try and determine and factors that may have an impact on the death rates as well as how the US could potentially fund the regions and states for research.
    - Outcome: Rates follow a consistent downward trend in the US and each region/state varies on what could be for a number of different reasons.
 
